@@ -11,4 +11,13 @@ Unfortunately the rest of the document is only available in polish and I current
 There are some features that ideally should be improved or added, however this was just one person's university project. Since the market is currently fairly saturated with apps of similar purpose, there is no need of further developing this project without having greater resources available at hand.
 
 The application features several screens. The first one is a menu with buttons leading to different sections of the app.
+
 ![Main screen](http://stasis.eu/Android/images/sorted/1.png)
+
+There is also a side navigation present, accessible from all screens via the hamburger icon.
+
+![Side navigation](http://stasis.eu/Android/images/sorted/2.png)
+
+One of the main sections is a dictionary - a list of words with corresponding pictures and example sentences. Upon first use the list needs to be populated from external database (the data is also saved locally for faster load times; if the version of the external database matches, no extra data would be downloaded).
+
+![Populating database](http://stasis.eu/Android/images/sorted/3.png)
