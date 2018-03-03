@@ -64,6 +64,7 @@ At the end of the quiz the achieved result is shown.
 
 The app also has a functional setting screen. It has some graphic issues, because official PreferenceCompat libraries are full of bugs that Google never fixed rather than making the problem irrelevant by obsolescence (a lot of devs target Lollipop and above (21+) these days. There are some open source bug fixes available, but they focused on the most critical issues.
 
+![Settings](http://stasis.eu/Android/images/sorted/13.png)
 
-
+## More at some undefined point in the future!
 
