@@ -1,6 +1,6 @@
 # Featured pet projects
 
-# One With Language
+## One With Language
 
 I wrote O.W.L. as a part of my engineer's work while at Wrocław University of Technology. It is an application for Android meant for teaching a language from scratch (as the subject of the reasearch were modern means of e-learning via mobiles and such). It supports API 16+ by utilising the AppCompat library, therefore the device coverage it offers is large (99.9% according to the data provided by Google play with the timestamp of February 5th, 2018, which is larger than in June 2017 when the project was published).
 
@@ -10,3 +10,5 @@ Unfortunately the rest of the document is only available in polish and I current
 
 There are some features that ideally should be improved or added, however this was just one person's university project. Since the market is currently fairly saturated with apps of similar purpose, there is no need of further developing this project without having greater resources available at hand.
 
+The application features several screens. The first one is a menu with buttons leading to different sections of the app.
+![Main screen](http://stasis.eu/Android/images/sorted/1.png)
