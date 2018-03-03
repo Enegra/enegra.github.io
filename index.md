@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Featured pet projects
 
-You can use the [editor on GitHub](https://github.com/Enegra/enegra.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# One With Language
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I wrote O.W.L. as a part of my engineer's work while at Wrocław University of Technology. It is an application for Android meant for teaching a language from scratch (as the subject of the reasearch were modern means of e-learning via mobiles and such). It supports API 16+ by utilising the AppCompat library, therefore the device coverage it offers is large (99.9% according to the data provided by Google play with the timestamp of February 5th, 2018, which is larger than in June 2017 when the project was published).
 
-### Markdown
+In the abstract of the paper I wrote the following:
+_The purpose of this work is to design a mobile application that allows remote teaching. Introduced the need for continued development and upgrading skills, as well as methods of satisfying it. Explained the concept of e-learning and how it is being implemented today, using the latest available technology. After analysing the existing solutions on the market in the category of mobile applications available for the Android platform, the scope of the task has been allotted. Further chapters describe the details of the design concept of the project – the implementation is built upon those foundations. Defined the functional and non-functional requirements and the structure of the system and its components have been analysed. A database schema and application interface screens have been designed. The implementation and related issues are discussed in detail in the penultimate chapter. The final chapter summarizes the work on the application and draws conclusions._
+Unfortunately the rest of the document is only available in polish and I currently do not plan on translating it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are some features that ideally should be improved or added, however this was just one person's university project. Since the market is currently fairly saturated with apps of similar purpose, there is no need of further developing this project without having greater resources available at hand.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Enegra/enegra.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
